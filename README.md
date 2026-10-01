@@ -515,8 +515,8 @@ Released under the [MIT License](LICENSE).
 
 ## 👥 Authors
 
-- **Diaa Salah**: [@DiaaSalah57](https://github.com/DiaaSalah57)
-- Project team: 9 members across the Frontend (3), Database (2) and Backend/Security (4) sub-teams
+- **Project for Arab Internation Bank " AIB " **
+- Project team: 9 members across the Frontend (2), Database (2) and Backend/Security (2) sub-teams
 
 **Date:** July 2026  
 **Version:** 1.0 (Backend Phases 0–4)
